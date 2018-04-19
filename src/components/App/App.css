@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.css';
+
+.ant-layout-header {
+  display: flex;
+  align-items: center;
+}
+
+.header-title {
+  display: inline-block;
+  margin: 0;
+  color: white;
+}
+
+.ant-input-search {
+  width: 200px;
+  margin-left: auto;
+}
+
+.ant-layout-content {
+  padding: 15px 30px 30px;
+  background-color: white;
+}
+
+.users-list-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.users-list-header h2 {
+  margin: 0;
+}
+
+.users-list-header .ant-btn-primary {
+  margin-left: auto;
+}

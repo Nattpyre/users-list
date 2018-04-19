@@ -1,0 +1,15 @@
+.ant-table table {
+  border: 1px solid #e8e8e8;
+  border-collapse: collapse !important;
+}
+
+button.user-action-btn {
+  border: none;
+  color: #1890ff;
+  background-color: transparent;
+}
+
+button.user-action-btn:hover,
+button.user-action-btn:focus {
+  background-color: transparent;
+}
